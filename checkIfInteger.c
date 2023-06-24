@@ -10,7 +10,7 @@ int checkIfInteger(char *arg)
 	int n = 0;
 
 	if (arg[n] == '-')
-		i++;
+		n++;
 	while (*(arg + n) != '\0')
 	{
 		if (*(arg + n) >= '0' && *(arg + n) <= '9')

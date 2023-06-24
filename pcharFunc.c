@@ -10,7 +10,7 @@ void pcharFunc(stack_ **stack, unsigned int lineNum)
 {
 	stack_ *temp = *stack;
 
-	(void) line_Num;
+	(void) lineNum;
 
 	if (!stack || !(*stack))
 	{

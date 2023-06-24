@@ -65,3 +65,5 @@ void getCommand(char *token, stack_ **head, unsigned int line_Num);
 char *getStrtok(char *line, unsigned int lineNum);
 int checkIfInteger(char *arg);
 
+
+#endif

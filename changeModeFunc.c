@@ -7,7 +7,7 @@
  **/
 void changeModeFunc(stack_ **stack, unsigned int lineNum)
 {
-	stack_t *temp = *stack;
+	stack_ *temp = *stack;
 
 	(void) lineNum;
 
