@@ -1,7 +1,7 @@
 #include "alxMonty.h"
 
 /**
- * rotrFunc - rotates the stack to the bottom.
+ * rotrFunc - Rotates the stack to the bottom.
  * The last element of the stack becomes the top element of the stack
  * @stack: pointer to the head
  * @lineNum: line number where the opcode was read from file
