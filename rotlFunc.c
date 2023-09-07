@@ -1,7 +1,7 @@
 #include "alxMonty.h"
 
 /**
- * rotlFunc -  rotates the stack to the top.
+ * rotlFunc -  To rotates the stack to the top.
  * The top element of the stack becomes the last one,
  * and the second top element of the stack becomes the first one
  * @stack: pointer to the top of the stack
