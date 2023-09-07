@@ -1,7 +1,7 @@
 #include "alxMonty.h"
 
 /**
- * popFunc - pops or remover the element at the top
+ * popFunc - Pops or remover the element at the top
  * of the stack.
  * @stack: pointer to the top of the stack
  * @lineNum: line number of code from file read
