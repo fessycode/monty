@@ -1,7 +1,7 @@
 #include "alxMonty.h"
 
 /**
- * getCommand - to matches a token to a command
+ * getCommand - To matches a token to a command
  * @token: token to be matched
  * @head: The pointer to the top of the stack
  * @lineNum: lune number
